@@ -1,0 +1,12 @@
+{
+  "name": "Nihui",
+  "version": "0.0.01",
+  "description": "Le bot codé à la main",
+  "main": "main.js",
+  "repository": "https://github.com/Snoopy1907/NihuiV2.git",
+  "author": "Snoopy1907 <lucas.guntzburger06@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
